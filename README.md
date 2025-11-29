@@ -135,7 +135,7 @@ This dataset is perfect for showcasing agent-driven analysis.
 The full demonstration is available in the Kaggle Notebook:
 
 👉 **Link to Kaggle Notebook**
-*(paste your notebook link here)*
+*([Kaggle Notebook](https://www.kaggle.com/code/deepakpatil10/capstone-project))*
 
 The notebook includes:
 
@@ -162,7 +162,7 @@ The notebook includes:
 ## ⚙️ How To Run Locally
 
 ```bash
-git clone https://github.com/yourusername/learnlytics-agent-analyzer.git
+git clone https://github.com/deepakp2410/Capstone_Project
 cd learnlytics-agent-analyzer
 
 # Install dependencies
