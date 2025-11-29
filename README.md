@@ -76,7 +76,7 @@ User → Orchestrator Agent → (Cleaning Agent, Insights Agent, SQL Agent, Repo
 
 ---
 
-## 📊 Dataset — LearnLytics 2.0
+## 📊 Dataset — LearnLytics 2.O
 
 **Student Learning Behavior Dataset (`student_data.csv`)**
 
@@ -135,7 +135,7 @@ This dataset is perfect for showcasing agent-driven analysis.
 The full demonstration is available in the Kaggle Notebook:
 
 👉 **Link to Kaggle Notebook**
-*([Kaggle Notebook](https://www.kaggle.com/code/deepakpatil10/capstone-project))*
+*[Kaggle Notebook](https://www.kaggle.com/code/deepakpatil10/capstone-project)*
 
 The notebook includes:
 
