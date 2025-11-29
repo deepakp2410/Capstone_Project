@@ -19,7 +19,7 @@ This project is submitted under the **Agents for Good** track.
 
 ## 🎯 Problem Statement
 
-Educational institutions collect大量 data on students — attendance, study habits, parental background, performance, and more.
+Educational institutions collect data on students — attendance, study habits, parental background, performance, and more.
 Yet **analyzing this data manually is time-consuming, inconsistent, and prone to human error**.
 
 Teachers and administrators often struggle to:
@@ -231,8 +231,8 @@ Special thanks to:
 
 **Deepak Patil**  
 AI + Data Science | Educational Analytics   
-🔗 GitHub: https://github.com/deepakp2410 
-📧 Email: deepakpatil6243@gmail.com 
-🔗 GitHub: https://www.linkedin.com/in/deepak-patil-23772b252/ 
+🔗 GitHub: [GitHub](https://github.com/deepakp2410) 
+📧 Email: [Email](deepakpatil6243@gmail.com)
+🔗 Linkedin: [Linkedin](https://www.linkedin.com/in/deepak-patil-23772b252/) 
 
 ---
